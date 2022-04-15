@@ -1,0 +1,40 @@
+item {1
+  id: 1
+  name: 'pork'
+}1
+1
+item {2
+  id: 2
+  name: 'beef'
+}2
+2
+
+item {3
+  id: 3
+  name: 'chicken'
+}
+
+item {
+  id: 4
+  name: 'beansprout'
+}
+
+item {
+  id: 5
+  name: 'carrot'
+}
+
+item {
+  id: 6
+  name: 'cucumber'
+}
+
+item {
+  id: 7
+  name: 'garlic'
+}
+
+item {
+  id: 8
+  name: 'onion'
+}
